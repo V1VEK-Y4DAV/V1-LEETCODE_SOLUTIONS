@@ -4,18 +4,6 @@ This repository contains my personal solutions to various [LeetCode](https://lee
 
 ---
 
-## 📂 Repository Structure
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Trees/
-├── Graphs/
-├── DynamicProgramming/
-├── SlidingWindow/
-├── TwoPointers/
-├── ...
-
-
 Each folder contains:
 - Problem name as `.cpp` files
 - Inline comments for logic
@@ -23,7 +11,7 @@ Each folder contains:
 
 ---
 
-## 🚀 Topics Covered
+## 🚀 Topics would be Covered
 
 - ✅ Arrays
 - ✅ Strings
@@ -46,10 +34,4 @@ All problems are from:
 
 ---
 
-## 📌 How to Use
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/V1VEK-Y4DAV/LEETCODE_SOLUTION.git
-   cd LEETCODE_SOLUTION
 
