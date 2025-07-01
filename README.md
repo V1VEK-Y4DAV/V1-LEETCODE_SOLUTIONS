@@ -1,4 +1,9 @@
-# LeetCode Solutions by V1VEK-Y4DAV 🧠💻
+<div align="center"> 
+  
+# LeetCode Solutions by V1VEK-Y4DAV 🧠💻 
+
+</div>
+
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![DSA](https://img.shields.io/badge/DSA-Practice%20Makes%20Perfect-blueviolet?style=for-the-badge)
 
