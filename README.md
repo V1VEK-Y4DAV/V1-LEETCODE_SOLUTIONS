@@ -13,7 +13,7 @@ This repository contains my personal solutions to various LeetCode problems, org
 ## 📁 Each folder contains:
 
 - Problem name as `.cpp` files  
-- Inline comments explaining the logic  
+- question of each problem
 - Time and space complexity mentioned (where relevant)  
 
 ## 🚀 Topics Covered
