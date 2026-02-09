@@ -5,7 +5,7 @@ public:
             return false;
         }
         int org = x;
-        int reversenum = 0;
+        long long reversenum = 0;
         while(x > 0){
             int num = x % 10;
             reversenum  = reversenum * 10 + num;
