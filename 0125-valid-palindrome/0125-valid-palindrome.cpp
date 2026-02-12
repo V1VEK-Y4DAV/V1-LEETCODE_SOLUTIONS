@@ -5,11 +5,13 @@ public:
         int high = s.length() - 1;
 
         while(low < high){
-            while( low < high && !isalnum(s[low])){
+            if( low < high && !isalnum(s[low])){
                     low++;
+                    continue;
             }
-            while( low < high && !isalnum(s[high])){
+            if( low < high && !isalnum(s[high])){
                     high--;
+                    continue;
             }
             if(tolower(s[low++]) != tolower(s[high--])){
                 return false;
