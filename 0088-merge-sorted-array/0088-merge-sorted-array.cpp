@@ -5,20 +5,19 @@ public:
         int j = n - 1;
         int index = nums1.size() - 1;
 
-        while(i >=0 && j >= 0){
-            if(nums1[i] > nums2[j]){
+        while (i >= 0 && j >= 0) {
+            if (nums1[i] > nums2[j]) {
                 nums1[index--] = nums1[i--];
-            }
-            else{
+            } else {
                 nums1[index--] = nums2[j--];
             }
         }
-        while( i >= 0){
+        while (i >= 0) {
             nums1[index--] = nums1[i--];
-        }  
+        }
 
-        while( j >= 0){
+        while (j >= 0) {
             nums1[index--] = nums2[j--];
-        } 
+        }
     }
 };
