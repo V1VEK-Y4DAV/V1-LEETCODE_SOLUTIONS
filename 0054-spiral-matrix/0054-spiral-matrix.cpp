@@ -1,19 +1,20 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-       vector<int> res;
-       int row = matrix.size();
-       int col = matrix[0].size();
+        vector<int> res;
 
-       int total = row * col;
-       int count = 0;
+        int row = matrix.size();
+        int col = matrix[0].size();
 
-       int startRow = 0;
-       int startCol = 0;
-       int endRow = row - 1;
-       int endCol = col - 1;
+        int total = row * col;
+        int count = 0;
 
-       while(count < total){
+        int startRow = 0;
+        int startCol = 0;
+        int endRow = row - 1;
+        int endCol = col - 1;
+
+        while(count < total){
             for(int index = startCol; count < total && index <= endCol; index++){
                 res.push_back(matrix[startCol][index]);
                 count++;
@@ -24,7 +25,7 @@ public:
                 count++;
             }
             endCol--;
-            for(int index = endCol; count < total && index >= startCol; index--){
+            for(int index = endCol ; count < total && index >= startCol; index--){
                 res.push_back(matrix[endRow][index]);
                 count++;
             }
@@ -34,7 +35,7 @@ public:
                 count++;
             }
             startCol++;
-       }
-       return res;
+        }
+        return res;
     }
 };
