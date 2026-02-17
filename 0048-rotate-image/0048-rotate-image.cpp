@@ -7,7 +7,7 @@ public:
         vector<vector<int>> res(row, vector<int>(col, 0));
         int n = row;
         for(int i = 0; i < row; i++){
-            for(int j = 0; j < row; j++){
+            for(int j = 0; j < col; j++){
                 res[j][n-i-1] = matrix[i][j];
             }
         }
