@@ -1,18 +1,26 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
+
+        // stairCase method;
         int row = matrix.size();
         int col = matrix[0].size();
 
-        int i = 0, j = col - 1;
+        int row_index = 0;
+        int col_index = col - 1;
 
-        while(i < row && j >= 0){
-            if(matrix[i][j] == target)
+        while(row_index < row && col_index >= 0){
+            int element = matrix[row_index][col_index];
+
+            if(element == target){
                 return true;
-            else if(matrix[i][j] > target)
-                j--;
-            else
-                i++;
+            }
+            else if(element < target){
+                row_index++;
+            }
+            else{
+                col_index--;
+            }
         }
         return false;
     }
