@@ -4,22 +4,24 @@ public:
         int row = matrix.size();
         int col = matrix[0].size();
 
-        int start = 0;
-        int end = row * col - 1;
+        for(int j = 0; j < col; j++){
+            int top = 0;
+            int bottom = row - 1;
 
-        while(start <= end){
-            int mid = start + (end - start)/2;
+            while(top <= bottom){
+                int mid = top + (bottom - top)/2;
 
-            int element = matrix[mid%col][mid/col];
+                int element = matrix[mid][j];
 
-            if(element == target){
-                return true;
-            }
-            else if(element < target){
-                start = mid + 1;
-            }
-            else{
-                end = mid - 1;
+                if(element == target){
+                    return true;
+                }
+                else if(element < target){
+                    top = mid + 1;
+                }
+                else{
+                    bottom = mid - 1;
+                }
             }
         }
         return false;
