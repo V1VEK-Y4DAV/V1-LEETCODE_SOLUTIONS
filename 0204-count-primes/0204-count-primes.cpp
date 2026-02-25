@@ -4,9 +4,9 @@ public:
         if(n <= 1){
             return 0;
         }
-        if( n == 2){
-            return 0;
-        }
+        // if( n == 2){
+        //     return 0;
+        // }
 
         vector<bool> prime(n+1, true);
 
