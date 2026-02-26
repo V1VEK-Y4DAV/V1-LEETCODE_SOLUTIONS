@@ -1,8 +1,6 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-
-        // stairCase method;
         int row = matrix.size();
         int col = matrix[0].size();
 
