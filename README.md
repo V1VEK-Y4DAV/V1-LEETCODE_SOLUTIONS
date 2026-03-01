@@ -38,7 +38,7 @@ All problems are from:
 ---
 
 > 📈 **DSA is a journey, not a destination.**  
-> Test cases may fail, logic might break, but I’ll keep learning, keep solving, and keep improving — because in DSA, there's always one more bug to squash and one more pattern to master. 🚀
+> Test cases may fail, logic might break, but I’ll keep learning, keep solving, and keep improving — because in DSA, there's always one more bug to squash and one more pattern to conquer. 🚀
 
 
 
