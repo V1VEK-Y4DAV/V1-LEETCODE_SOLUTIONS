@@ -6,6 +6,7 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![DSA](https://img.shields.io/badge/DSA-Practice%20Makes%20Perfect-blueviolet?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-Practice%20Daily-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
 This repository contains my personal solutions to various LeetCode problems, organized by topic and difficulty. Each solution is written in C++ and focuses on clarity, efficiency, and interview readiness.
