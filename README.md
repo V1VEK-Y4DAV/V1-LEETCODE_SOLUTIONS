@@ -57,6 +57,7 @@ All problems are from:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0078-subsets/) | Medium |
 | [0389-find-the-difference](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0389-find-the-difference/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@ All problems are from:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0078-subsets/) | Medium |
 | [0877-stone-game](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -78,4 +80,8 @@ All problems are from:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
