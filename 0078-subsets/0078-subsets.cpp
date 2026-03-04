@@ -5,10 +5,11 @@ public:
             ans.push_back(output);
             return;
         }
-        // exclude
+
+        // Exclude
         helper(nums, output, index + 1, ans);
 
-        // include
+        // Include
         int element = nums[index];
         output.push_back(element);
         helper(nums, output, index + 1, ans);
@@ -16,9 +17,7 @@ public:
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
         vector<int> output;
-        int index = 0;
-
-        helper(nums, output, index, ans);
+        helper(nums, output, 0, ans);
         return ans;
     }
 };
