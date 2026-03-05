@@ -10,18 +10,22 @@
  */
 class Solution {
 public:
+    void helper(ListNode* &head, ListNode* &prev, ListNode* &curr, ListNode* &forward){
+        if(curr == NULL){
+            return ;
+        }
+
+        forward = curr -> next;
+        curr -> next = prev;
+        prev = curr;
+        curr = forward;
+        helper(head, prev, curr, forward);
+    }
     ListNode* reverseList(ListNode* head) {
         ListNode* prev = NULL;
         ListNode* curr = head;
         ListNode* forward = NULL;
-
-        while(curr != NULL){
-            forward = curr -> next;
-            curr -> next = prev;
-            prev = curr;
-            curr = forward;
-        }
-        head = prev;
-        return head;
+        helper(head, prev, curr, forward);
+        return prev;
     }
 };
