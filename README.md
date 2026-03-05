@@ -49,6 +49,7 @@ All problems are from:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0389-find-the-difference](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0389-find-the-difference/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@ All problems are from:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0141-linked-list-cycle](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -98,5 +100,6 @@ All problems are from:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
