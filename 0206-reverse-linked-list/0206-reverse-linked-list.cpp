@@ -10,22 +10,22 @@
  */
 class Solution {
 public:
-    void helper(ListNode* &head, ListNode* &prev, ListNode* &curr, ListNode* &forward){
+    ListNode* helper(ListNode* &head, ListNode* &prev, ListNode* &curr, ListNode* &forward){
         if(curr == NULL){
-            return ;
+            return prev;
         }
 
         forward = curr -> next;
         curr -> next = prev;
         prev = curr;
         curr = forward;
-        helper(head, prev, curr, forward);
+        return helper(head, prev, curr, forward);
     }
     ListNode* reverseList(ListNode* head) {
         ListNode* prev = NULL;
         ListNode* curr = head;
         ListNode* forward = NULL;
-        helper(head, prev, curr, forward);
-        return prev;
+        ListNode* ans = helper(head, prev, curr, forward);
+        return ans;
     }
 };
