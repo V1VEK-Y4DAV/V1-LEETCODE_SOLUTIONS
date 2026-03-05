@@ -39,8 +39,8 @@ public:
             count2++;
         }
 
-        if(forward != NULL ){
-            head -> next = reverseKGroup(forward, k);
+        if(curr != NULL ){
+            head -> next = reverseKGroup(curr, k);
         }
         return prev;
     }
