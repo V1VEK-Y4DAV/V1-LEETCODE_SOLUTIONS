@@ -28,7 +28,7 @@ public:
         int size = res.size();
 
         if(size&1){
-            return res[(size -1)/2];
+            return res[(size - 1)/2];
         }
         else{
             double a = res[(size-1)/2];
