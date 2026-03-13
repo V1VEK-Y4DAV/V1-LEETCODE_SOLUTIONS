@@ -1,0 +1,26 @@
+class Solution {
+public:
+    int reverse(int x) {
+        int num = x;
+        int rev = 0;
+        while(num != 0){
+            int last_digit = num % 10;
+            if(rev > INT_MAX/10 || rev < INT_MIN){
+                return 0;
+            }
+            if(last_digit < 0){
+                rev = rev * 10 + (-1 * last_digit);
+            }
+            else{
+                rev = rev * 10 + last_digit;
+            }
+            num /= 10;
+        }
+
+        if(x < 0){
+            return -1 * rev;
+        }
+
+        return rev;
+    }
+};
