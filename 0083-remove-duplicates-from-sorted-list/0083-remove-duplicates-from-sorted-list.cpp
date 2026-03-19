@@ -15,7 +15,7 @@ public:
             return head;
         }
         ListNode* curr = head;
-        while(curr -> next != NULL && curr != NULL){
+        while(curr -> next != NULL){
             if(curr -> val == curr -> next -> val){
                 ListNode* temp = curr -> next;
                 curr -> next = curr -> next -> next;
