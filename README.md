@@ -89,6 +89,7 @@ All problems are from:
 | [0371-sum-of-two-integers](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0877-stone-game](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
