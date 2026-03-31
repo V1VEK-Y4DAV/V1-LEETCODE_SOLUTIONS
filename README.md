@@ -68,6 +68,7 @@ All problems are from:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0414-third-maximum-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ All problems are from:
 | [0078-subsets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0078-subsets/) | Medium |
 | [0162-find-peak-element](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0414-third-maximum-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0414-third-maximum-number/) | Easy |
 | [0812-largest-triangle-area](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
 ## Math
