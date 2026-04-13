@@ -54,30 +54,37 @@ private:
     }
 public:
     int maximalRectangle(vector<vector<char>>& matrix) {
-        vector<vector<int>> new_matrix;
-        for(int i = 0; i < matrix.size(); i++){
-            vector<int> temp;
-            for(int j = 0; j < matrix[0].size(); j++){
-                char ch = matrix[i][j];
-                int num = ch - '0';
-                temp.push_back(num);
-            }
-            new_matrix.push_back(temp);
-        }
- 
-        int area = largerArea(new_matrix[0]);
-        for(int i = 1; i < new_matrix.size(); i++){
-            for(int j = 0; j < new_matrix[0].size(); j++){
+    if(matrix.empty() || matrix[0].empty()) return 0;
 
-                if(new_matrix[i][j] != 0){
-                    new_matrix[i][j] = new_matrix[i][j] + new_matrix[i-1][j];
-                }
-                else{
-                    new_matrix[i][j] = 0;
-                }
-            }
-            area = max(area, largerArea(new_matrix[i]));
+    vector<vector<int>> new_matrix;
+
+    // Step 1: Convert char → int
+    for(int i = 0; i < matrix.size(); i++){
+        vector<int> temp;
+        for(int j = 0; j < matrix[0].size(); j++){
+            temp.push_back(matrix[i][j] - '0');
         }
-        return area;
+        new_matrix.push_back(temp);
     }
+
+    int n = new_matrix.size();
+    int m = new_matrix[0].size();
+
+    // Step 2: Build histogram in-place (using same new_matrix)
+    for(int i = 1; i < n; i++){
+        for(int j = 0; j < m; j++){
+            if(new_matrix[i][j] != 0){
+                new_matrix[i][j] += new_matrix[i-1][j];
+            }
+        }
+    }
+
+    // Step 3: Apply largest rectangle on each row
+    int area = 0;
+    for(int i = 0; i < n; i++){
+        area = max(area, largerArea(new_matrix[i]));
+    }
+
+    return area;
+}
 };
