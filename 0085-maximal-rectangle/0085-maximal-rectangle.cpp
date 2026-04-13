@@ -69,8 +69,8 @@ public:
         for(int i = 1; i < new_matrix.size(); i++){
             for(int j = 0; j < new_matrix[0].size(); j++){
 
-                if(new_matrix[i][j] == 1){
-                    new_matrix[i][j] = new_matrix[i][j] + 1;
+                if(new_matrix[i][j] != 0){
+                    new_matrix[i][j] = new_matrix[i][j] + new_matrix[i-1][j];
                 }
                 else{
                     new_matrix[i][j] = 0;
