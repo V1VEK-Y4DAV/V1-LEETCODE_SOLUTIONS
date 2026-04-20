@@ -56,6 +56,7 @@ All problems are from:
 | [0389-find-the-difference](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0389-find-the-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ All problems are from:
 | [0812-largest-triangle-area](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@ All problems are from:
 | [0141-linked-list-cycle](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,4 +202,8 @@ All problems are from:
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0622-design-circular-queue/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 <!---LeetCode Topics End-->
