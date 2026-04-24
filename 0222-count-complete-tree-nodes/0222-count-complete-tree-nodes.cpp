@@ -12,25 +12,25 @@
 class Solution {
 public:
     int countNodes(TreeNode* root) {
-        if (root == nullptr) return 0;
+        if(root == NULL) return 0;
         int count = 0;
-        queue<TreeNode* > q;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode* temp = q.front();
-            q.pop();
+        queue<TreeNode* > que;
+        que.push(root);
 
-            // if(curr -> left == NULL && curr -> right == NULL){
-                count++;
+        while(!que.empty()){
+            TreeNode* temp = que.front();
+            que.pop();
+            count++;
 
-            if(temp -> left){
-                q.push(temp -> left);
+            if(temp->left){
+                que.push(temp->left);
             }
 
-            if(temp -> right){
-                q.push(temp -> right);
+            if(temp->right){
+                que.push(temp->right);
             }
         }
+
         return count;
     }
 };
