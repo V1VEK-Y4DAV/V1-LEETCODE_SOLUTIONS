@@ -27,7 +27,6 @@ private:
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-
         helper(root, ans);
         return ans;
         
