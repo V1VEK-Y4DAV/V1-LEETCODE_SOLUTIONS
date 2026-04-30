@@ -11,29 +11,28 @@
  */
 class Solution {
 private:
-    int height(TreeNode* root){
-        if(root == NULL){
+    int height(TreeNode* root) {
+        if(root == NULL) {
             return 0;
         }
 
         int left = height(root -> left);
         int right = height(root -> right);
 
-        int ans = max(left, right) + 1;
-
-        return ans;
+        return max(left, right) + 1;
     }
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root == NULL){
+        if(root == NULL) {
             return 0;
         }
 
-        int leftpart = diameterOfBinaryTree(root -> left);
-        int rightpart = diameterOfBinaryTree(root -> right);
-        int includeboth = height(root -> left) + height(root -> right);
+        int op1 = diameterOfBinaryTree(root -> left);
+        int op2 = diameterOfBinaryTree(root -> right);
+        int op3 = height(root -> left) + height(root -> right);
 
-        int ans = max(leftpart, max(rightpart, includeboth));
+        int ans = max(op1, max(op2, op3));
+
         return ans;
     }
 };
