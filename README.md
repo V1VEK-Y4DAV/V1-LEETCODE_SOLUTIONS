@@ -53,6 +53,7 @@ All problems are from:
 | [0141-linked-list-cycle](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0205-isomorphic-strings/) | Easy |
 | [0389-find-the-difference](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0389-find-the-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -114,6 +115,7 @@ All problems are from:
 | [0002-add-two-numbers](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0066-plus-one/) | Easy |
+| [0202-happy-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0812-largest-triangle-area](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0812-largest-triangle-area/) | Easy |
@@ -162,6 +164,7 @@ All problems are from:
 | [0141-linked-list-cycle](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Stack
