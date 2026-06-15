@@ -70,6 +70,7 @@ All problems are from:
 | [0389-find-the-difference](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0389-find-the-difference/) | Easy |
 | [0412-fizz-buzz](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0412-fizz-buzz/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [3921-score-validator](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3921-score-validator/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ All problems are from:
 | [2475-number-of-unequal-triplets-in-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
+| [3921-score-validator](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3921-score-validator/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,4 +304,5 @@ All problems are from:
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0412-fizz-buzz/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
+| [3921-score-validator](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3921-score-validator/) | Easy |
 <!---LeetCode Topics End-->
