@@ -130,6 +130,7 @@ All problems are from:
 | [0877-stone-game](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1925-count-square-sum-triples/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@ All problems are from:
 | [0202-happy-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0202-happy-number/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,4 +307,8 @@ All problems are from:
 | [0412-fizz-buzz](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0412-fizz-buzz/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3921-score-validator](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3921-score-validator/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
