@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int mostFrequentEven(vector<int>& nums) {
+        int n = nums.size();
+        map<int, int> mp;
+
+        for(int i = 0; i < n; i++) {
+            mp[nums[i]]++;
+        }
+
+        int maxi = -1;
+        int ans = -1;
+
+        for(auto it: mp) {
+            if(it.second > maxi && it.first % 2 == 0) {
+                ans = it.first;
+                maxi = it.second;
+            }
+        }
+        return ans;
+    }
+};
