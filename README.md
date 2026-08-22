@@ -80,6 +80,7 @@ All problems are from:
 | [0222-count-complete-tree-nodes](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0389-find-the-difference/) | Easy |
+| [0461-hamming-distance](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0461-hamming-distance/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
