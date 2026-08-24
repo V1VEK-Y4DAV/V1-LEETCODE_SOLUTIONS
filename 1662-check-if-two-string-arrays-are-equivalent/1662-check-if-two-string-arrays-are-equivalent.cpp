@@ -5,11 +5,15 @@ public:
         string str2 = "";
 
         for(int i = 0; i < word1.size(); i++) {
-                str1 += word1[i];
+            for(int j = 0; j < word1[i].size(); j++) {
+                str1 += word1[i][j];
+            }
         }
 
         for(int i = 0; i < word2.size(); i++) {
-                str2 += word2[i];
+            for(int j = 0; j < word2[i].size(); j++) {
+                str2 += word2[i][j];
+            }
         }
 
         return str1 == str2;
