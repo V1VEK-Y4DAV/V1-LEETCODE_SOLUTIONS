@@ -65,6 +65,7 @@ All problems are from:
 | [2367-number-of-arithmetic-triplets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ All problems are from:
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +133,7 @@ All problems are from:
 | [2404-most-frequent-even-element](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3921-score-validator](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3921-score-validator/) | Easy |
 ## Math
