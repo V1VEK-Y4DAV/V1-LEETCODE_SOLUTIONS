@@ -83,6 +83,7 @@ All problems are from:
 | [0371-sum-of-two-integers](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0461-hamming-distance/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ All problems are from:
 | [0812-largest-triangle-area](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0896-monotonic-array/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1534-count-good-triplets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1534-count-good-triplets/) | Easy |
