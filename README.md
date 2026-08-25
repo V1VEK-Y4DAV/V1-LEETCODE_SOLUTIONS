@@ -83,12 +83,14 @@ All problems are from:
 | [0371-sum-of-two-integers](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0461-hamming-distance/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0414-third-maximum-number/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -113,6 +115,7 @@ All problems are from:
 | [0877-stone-game](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0896-monotonic-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1534-count-good-triplets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1534-count-good-triplets/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -324,5 +327,6 @@ All problems are from:
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2404-most-frequent-even-element/) | Easy |
 <!---LeetCode Topics End-->
