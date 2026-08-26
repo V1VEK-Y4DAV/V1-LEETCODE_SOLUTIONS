@@ -14,11 +14,11 @@ public:
 
         vector<int> ans;
         int counter = k;
-        while(counter > 0){
+        while(counter-- > 0){
             int elem = pq.top().second;
             ans.push_back(elem);
             pq.pop();
-            counter--;
+
         }
         return ans;
     }
