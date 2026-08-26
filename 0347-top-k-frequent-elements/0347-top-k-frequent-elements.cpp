@@ -15,7 +15,7 @@ public:
         vector<int> ans;
         int counter = k;
         while(counter > 0){
-            auto [freq, elem] = pq.top();
+            int elem = pq.top().second;
             ans.push_back(elem);
             pq.pop();
             counter--;
