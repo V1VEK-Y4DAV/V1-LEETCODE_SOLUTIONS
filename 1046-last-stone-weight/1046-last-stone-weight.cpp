@@ -13,7 +13,7 @@ private:
         }
 
         // Current element can be second highest
-        else if (i != highest && stones[i] >= stones[secondHighest]) {
+        else if (stones[i] >= stones[secondHighest]) {
             secondHighest = i;
         }
     }
