@@ -47,9 +47,9 @@ public:
                 stones.erase(stones.begin() + high);
             }
 
-            // if (temp > 0) {
+
                 stones.push_back(temp);
-            // }
+
         }
 
         for(int i = 0; i < stones.size(); i++) {
