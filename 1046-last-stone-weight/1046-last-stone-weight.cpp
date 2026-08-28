@@ -36,7 +36,7 @@ public:
             int s_high = p.second;
 
             int temp = stones[high] - stones[s_high];
-            cout << stones[high] << " " << stones[s_high] << endl;
+            // cout << stones[high] << " " << stones[s_high] << endl;
             // Erase larger index first
             if (high > s_high) {
                 stones.erase(stones.begin() + high);
@@ -50,10 +50,6 @@ public:
 
                 stones.push_back(temp);
 
-        }
-
-        for(int i = 0; i < stones.size(); i++) {
-            cout << stones[i] << " ";
         }
         return stones[0];
     }
