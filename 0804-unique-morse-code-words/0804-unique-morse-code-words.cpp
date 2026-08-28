@@ -14,9 +14,11 @@ public:
             comparing.insert(temp);
         }
 
-        for(auto x: comparing) {
-            cout << x << " ";
-        }
+        // traversing to check
+        // for(auto x: comparing) {
+        //     cout << x << " ";
+        // }
+
         // int counter = 0;
         // for(int i = 0; i < comparing.size(); i++) {
         //     for(int j = i+1; j < comparing.size(); j++) {
