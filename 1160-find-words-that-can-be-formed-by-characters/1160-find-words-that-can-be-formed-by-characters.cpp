@@ -21,7 +21,6 @@ public:
             vector<char> tempChars = charsVector;
 
             for(int j = 0; j < words[i].size(); j++) {
-
                 auto it = find(tempChars.begin(), tempChars.end(), words[i][j]);
 
                 if(it == tempChars.end()) {
