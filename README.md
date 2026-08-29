@@ -64,6 +64,7 @@ All problems are from:
 | [0804-unique-morse-code-words](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0819-most-common-word/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -85,6 +86,7 @@ All problems are from:
 | [0771-jewels-and-stones](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0819-most-common-word/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -141,6 +143,7 @@ All problems are from:
 | [0896-monotonic-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0896-monotonic-array/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1046-last-stone-weight](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1046-last-stone-weight/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1534-count-good-triplets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1534-count-good-triplets/) | Easy |
@@ -368,6 +371,7 @@ All problems are from:
 | [0387-first-unique-character-in-a-string](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0819-most-common-word](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0819-most-common-word/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2404-most-frequent-even-element/) | Easy |
