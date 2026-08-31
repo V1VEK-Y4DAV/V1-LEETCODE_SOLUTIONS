@@ -73,6 +73,7 @@ All problems are from:
 | [2404-most-frequent-even-element](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3731-find-missing-elements](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ All problems are from:
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3731-find-missing-elements/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ All problems are from:
 | [2574-left-and-right-sum-differences](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
+| [3731-find-missing-elements](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3731-find-missing-elements/) | Easy |
 | [3921-score-validator](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3921-score-validator/) | Easy |
 ## Math
 | Problem Name | Difficulty |
