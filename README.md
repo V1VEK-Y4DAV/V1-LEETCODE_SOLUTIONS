@@ -86,6 +86,7 @@ All problems are from:
 | [0771-jewels-and-stones](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0819-most-common-word/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -236,6 +237,7 @@ All problems are from:
 | [0145-binary-tree-postorder-traversal](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
