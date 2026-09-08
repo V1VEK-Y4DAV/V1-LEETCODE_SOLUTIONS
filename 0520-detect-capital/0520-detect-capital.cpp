@@ -1,9 +1,7 @@
 class Solution {
 public:
     bool detectCapitalUse(string word) {
-        if(word.size() == 1) {
-            return true;
-        }
+
         int capitalCounter = 0;
         for(int i = 0; i < word.size(); i++) {
             int num = word[i];
