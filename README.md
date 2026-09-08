@@ -189,6 +189,7 @@ All problems are from:
 | [1863-sum-of-all-subset-xor-totals](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [3870-count-commas-in-range](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
