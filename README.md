@@ -84,6 +84,7 @@ All problems are from:
 | [0412-fizz-buzz](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0520-detect-capital](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0819-most-common-word/) | Easy |
