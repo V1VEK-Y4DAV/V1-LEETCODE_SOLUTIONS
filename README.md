@@ -106,6 +106,7 @@ All problems are from:
 | [0371-sum-of-two-integers](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0461-hamming-distance/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -182,6 +183,7 @@ All problems are from:
 | [0445-add-two-numbers-ii](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0507-perfect-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0507-perfect-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0812-largest-triangle-area](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
@@ -425,4 +427,8 @@ All problems are from:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 <!---LeetCode Topics End-->
