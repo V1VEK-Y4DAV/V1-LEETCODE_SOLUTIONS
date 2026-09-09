@@ -159,6 +159,7 @@ All problems are from:
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -189,6 +190,7 @@ All problems are from:
 | [1025-divisor-game](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2396-strictly-palindromic-number/) | Medium |
