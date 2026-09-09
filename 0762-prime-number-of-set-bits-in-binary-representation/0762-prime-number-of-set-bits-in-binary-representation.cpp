@@ -12,7 +12,7 @@ private:
         int counter = 0;
         while(num > 0) {
             if(num & 1) counter++;
-            num >>= 1;
+            num >>= 1;  
         }
         return counter;
     }
