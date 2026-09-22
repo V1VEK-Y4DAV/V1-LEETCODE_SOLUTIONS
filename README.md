@@ -171,6 +171,7 @@ All problems are from:
 | [2475-number-of-unequal-triplets-in-array](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3731-find-missing-elements](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3731-find-missing-elements/) | Easy |
 | [3921-score-validator](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3921-score-validator/) | Easy |
@@ -200,6 +201,7 @@ All problems are from:
 | [2180-count-integers-with-even-digit-sum](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2427-number-of-common-factors](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/2427-number-of-common-factors/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3870-count-commas-in-range](https://github.com/V1VEK-Y4DAV/V1-LEETCODE_SOLUTIONS/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
